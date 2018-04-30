@@ -1,6 +1,6 @@
 ## Welcome to XForum GitHub Pages
 
-XForm built on [youBBS](https://www.youbbs.org).
+XForum built on [youBBS](https://www.youbbs.org).
 
 ### Features.
 - [x] Cloud storage upload url prefix.
