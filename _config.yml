@@ -5,5 +5,5 @@ show_downloads: true
 description: XForum is a open source forum written by golang.
 github:
   repository_url: https://github.com/goxforum/xforum
-  zip_url: https://github.com/goxforum/xforum.github.io/zipball/master
-  tar_url: https://github.com/goxforum/xforum.github.io/tarball/master
+  zip_url: https://github.com/goxforum/xforum/zipball/master
+  tar_url: https://github.com/goxforum/xforum/tarball/master
