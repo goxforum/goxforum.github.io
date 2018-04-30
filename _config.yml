@@ -3,5 +3,7 @@ title: XForum Page
 theme: jekyll-theme-slate
 show_downloads: true
 description: XForum is a open source forum written by golang.
-github:
-  zip_url: https://github.com/goxforum/xforum/download.zip
+site:
+  github:
+    url: https://github.com/goxforum/xforum
+#    zip_url: https://github.com/goxforum/xforum/download.zip
